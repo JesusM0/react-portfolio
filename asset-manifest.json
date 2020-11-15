@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.d74cb662.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.0394086c.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.0394086c.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.377e059e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.377e059e.js.map",
+    "static/js/2.ce8b687e.chunk.js": "/react-portfolio/static/js/2.ce8b687e.chunk.js",
+    "static/js/2.ce8b687e.chunk.js.map": "/react-portfolio/static/js/2.ce8b687e.chunk.js.map",
+    "static/js/3.e7fdd043.chunk.js": "/react-portfolio/static/js/3.e7fdd043.chunk.js",
+    "static/js/3.e7fdd043.chunk.js.map": "/react-portfolio/static/js/3.e7fdd043.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.d74cb662.chunk.css.map": "/react-portfolio/static/css/main.d74cb662.chunk.css.map",
+    "static/js/2.ce8b687e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.ce8b687e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-portfolio/static/media/otaku.03ab53db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.377e059e.js",
+    "static/js/2.ce8b687e.chunk.js",
+    "static/css/main.d74cb662.chunk.css",
+    "static/js/main.0394086c.chunk.js"
+  ]
+}
