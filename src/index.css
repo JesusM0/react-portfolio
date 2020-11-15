@@ -192,7 +192,7 @@ button:visited {
 
 button:hover {
   transform: translateY(-3px);
-  box-shadow: 0 1rem 2rem aqua);
+  box-shadow: (0 1rem 2rem aqua);
 }
 
 button:active {
