@@ -12,7 +12,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState(pages[0]);
 
   function renderPage() {
-    switch (currentpage) {
+    switch (currentPage) {
       case 'Portfolio':
         return <Portfolio />;
       case 'ContactMe':
@@ -26,10 +26,12 @@ function App() {
 
   return (
     <div>
-      <Nav pages={pages} currentPage={currentPage} setCurrentPage={setCurrentPage} />
-      <main>
-        {renderPage()}
-      </main>
+      <Nav
+        pages={pages}
+        currentPage={currentPage}
+        setCurrentPage={setCurrentPage}
+      />
+      <main>{renderPage()}</main>
       <Footer />
     </div>
   );
