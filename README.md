@@ -7,6 +7,10 @@ Using the power of React, I transformed my original CSS portfolio into a React P
 * [Screenshot](#Screenshot)
 * [Credits](#Credits)
 
+## Deployed
+## Deployment
+[Deployed application here](https://kos-mosv4.github.io/react-portfolio/)
+
 ## Screenshot
 ![Homepage](./src/assets/images/screenshot.jpg)
 
